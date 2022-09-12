@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "texla1",
+        "url": "https://react-car-configurator.netlify.app/cars/model_s/model_s_black_wheel_1.png"
+    },
+    {
+        "id": 2,
+        "name": "texla2",
+        "url": "https://react-car-configurator.netlify.app/cars/model_s/model_s_white_wheel_1.png"
+    },
+    {
+        "id": 3,
+        "name": "texla3",
+        "url": "https://react-car-configurator.netlify.app/cars/model_s/model_s_silver_wheel_1.png"
+    },
+    {
+        "id": 4,
+        "name": "texla4",
+        "url": "https://react-car-configurator.netlify.app/cars/model_s/model_s_blue_wheel_1.png"
+    },
+    {
+        "id": 5,
+        "name": "texla5",
+        "url": "https://react-car-configurator.netlify.app/cars/model_s/model_s_red_wheel_1.png"
+    }
+]
